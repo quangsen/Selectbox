@@ -30,6 +30,7 @@ export default class SelectMenu extends Component {
                 <p>man 1</p>
                 <p>man 2</p>
                 <p>man 3</p>
+                <p>girl 1</p>
             </div>
         );
     }

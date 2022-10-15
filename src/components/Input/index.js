@@ -22,6 +22,7 @@ export default class Input extends Component {
                     placeholder={this.props.valueinput}
                     id='input'
                 />
+                <p>girl 1</p>
             </div>
         );
     }
