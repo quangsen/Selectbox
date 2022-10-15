@@ -120,6 +120,9 @@ class App extends Component {
                     />
                     <p>man 3</p>
                 </div>
+                <p>test dong 1</p>
+                <p>test dong 2</p>
+                <p>test dong 3</p>
             </div>
         );
     }
