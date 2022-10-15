@@ -119,6 +119,7 @@ class App extends Component {
                         selected={this.state.selected}
                     />
                 </div>
+                <p>test dong 1</p>
             </div>
         );
     }
