@@ -27,6 +27,7 @@ export default class SelectMenu extends Component {
                 <ul>
                     {itemActive ? listSelect: ''}
                 </ul>
+                <p>man 1</p>
             </div>
         );
     }
