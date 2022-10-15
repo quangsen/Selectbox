@@ -118,6 +118,7 @@ class App extends Component {
                         valueInput={this.valueInput}
                         selected={this.state.selected}
                     />
+                    <p>man 3</p>
                 </div>
                 <p>test dong 1</p>
                 <p>test dong 2</p>
